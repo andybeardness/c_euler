@@ -2,7 +2,7 @@
 
 Euler task's solutions with **C language**
 
-![euler-pic](https://myhero.com/content/images/thumbs/0121970_leonhard-euler-the-catalyst-behind-the-revolution-of-mathematics.jpeg)
+![euler-pic](https://dl0.creation.com/fpimages/12305.jpg)
 
 ## Source
 
